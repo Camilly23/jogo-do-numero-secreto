@@ -1,7 +1,8 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>💡 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Este é um projeto de lógica de programação desenvolvido na Alura.</p>
+<p>O jogo desafia o usuário a adivinhar um número entre 1 e 10. O programa, com o auxílio do recurso ResponsiveVoice, indica na tela e por voz se o número escolhido é maior, menor ou igual ao número secreto.</p>
 
 ## 🚀 Tecnologias
 <div>
